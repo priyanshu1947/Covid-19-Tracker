@@ -43,3 +43,4 @@ Once the project is set up, open your browser and go to http://localhost:3000 to
 
 Feel free to contribute to the project by opening issues or submitting pull requests. Your feedback and suggestions are highly appreciated.
 
+![Merch poster ](https://github.com/priyanshu1947/Covid-19-Tracker/assets/70458921/6f70dcee-d619-4510-b655-ff74eb792431)
